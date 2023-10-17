@@ -26,7 +26,7 @@ The first dataset is provided by Medical Imaging and Data Resource Center (MIDRC
 I used the experiment on the MIMIC-CXR dataset on the intersectional groups as an example.
 
 ```sh
-python train_mimic_sex.py
+python train_midrc_sex_supcon.py
 then
 python train_finetune_race.py
 ```
