@@ -23,7 +23,7 @@ The first dataset is provided by Medical Imaging and Data Resource Center (MIDRC
 
 ### Quickstart
 
-I used the experiment on the MIMIC-CXR dataset on the intersectional groups as an example.
+I used the experiment on the MIMIC-CXR dataset on the sex groups based on the proposed method as an example. 
 
 ```sh
 python train_midrc_sex_supcon.py
